@@ -29,5 +29,5 @@ class DecoderRNN(nn.Module):
         pass
 
     def sample(self, inputs, states=None, max_len=20):
-        " accepts pre-processed image tensor (inputs) and returns predicted sentence (list of tensor ids of length max_len) "
+        "accepts pre-processed image tensor (inputs) and returns predicted sentence (list of tensor ids of length max_len)"
         pass
