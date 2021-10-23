@@ -10,4 +10,4 @@ It's a simple attention based model in deep learning through which we are trying
 This include 4 files
 
 1. Dataset
-2. 
+2. Preliminaries
